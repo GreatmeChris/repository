@@ -1,0 +1,16 @@
+INDEX VERSION 1.127+E:\webapps\repository\.metadata\.plugins\org.eclipse.jdt.core
+2073373068.index
+377263957.index
+3811981154.index
+4173690970.index
+3178245866.index
+2739063296.index
+2481757570.index
+4284933105.index
+3720831047.index
+2490453364.index
+2552956019.index
+1991378184.index
+546346376.index
+2598111176.index
+3746254588.index

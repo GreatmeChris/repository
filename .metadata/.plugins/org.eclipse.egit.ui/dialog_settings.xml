@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="CommitDialog.showUntracked"/>
+	<list key="CommitDialog.authorValues">
+		<item value="GreatmeChris &lt;solongago@yeah.net&gt;"/>
+		<item value="chris &lt;solongago@yeah.net&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="GreatmeChris &lt;solongago@yeah.net&gt;"/>
+		<item value="chris &lt;solongago@yeah.net&gt;"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/GreatmeChris/repository.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.COMMIT_DIALOG_SECTION">
+		<item value="1006" key="DIALOG_WIDTH"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+		<item value="793" key="DIALOG_HEIGHT"/>
+		<item value="466" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item value="368" key="DIALOG_Y_ORIGIN"/>
+		<item value="763" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="668" key="DIALOG_WIDTH"/>
+		<item value="204" key="DIALOG_Y_ORIGIN"/>
+		<item value="481" key="DIALOG_HEIGHT"/>
+		<item value="635" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>
